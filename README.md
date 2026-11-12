@@ -58,6 +58,17 @@ The project includes:
 
 Detailed analysis and methodology are available in the Jupyter Notebook.
 
+### Data Files
+
+The `Results/` directory contains six CSV files with processed data and analysis outputs generated during the study.
+
+These files support the analysis of:
+- First-fixation patterns
+- Fixation duration
+- Gaze similarity between participants
+- Spatial distribution of fixations
+- Participant-level gaze behaviour
+
 
 ## Tools & Technologies
 - Python
