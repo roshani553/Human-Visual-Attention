@@ -88,7 +88,7 @@ These files support the analysis of:
 
 The complete research report, covering the methodology, analysis, findings, and conclusions, is available below.
 
-[View Research Report](Research_Report/COCO_FreeView_Research_Report.pdf)
+[View Research Report](COCO_FreeView_Research_Report.pdf)
 
 ## Research Focus
 Human visual attention, eye-tracking, gaze trajectories, fixation analysis, and behavioral data analysis.
