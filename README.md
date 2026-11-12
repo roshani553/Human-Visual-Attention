@@ -29,12 +29,35 @@ The analysis uses eye-tracking observations collected from 10 participants viewi
 4. Participant gaze-pattern similarity analysis
 5. Visualization and result export
 
+
 ## Results
+
 The project includes:
 - 6 research figures
 - 6 CSV result files
 
-Detailed visualizations and analysis are available in the Jupyter Notebook.
+### Research Visualizations
+
+### 1. First Fixation Heatmap
+![First Fixation Heatmap](Figures/first_fixation_heatmap.png)
+
+### 2. Fixation Duration Distribution
+![Fixation Duration Distribution](Figures/fixation_duration_distribution.png)
+
+### 3. Gaze Similarity Heatmap
+![Gaze Similarity Heatmap](Figures/gaze_similarity_heatmap.png)
+
+### 4. Overall Fixation Heatmap
+![Overall Fixation Heatmap](Figures/overall_fixation_heatmap.png)
+
+### 5. Participant Fixation Distance
+![Participant Fixation Distance](Figures/participant_fixation_distance.png)
+
+### 6. Participant Mean Locations
+![Participant Mean Locations](Figures/participant_mean_locations.png)
+
+Detailed analysis and methodology are available in the Jupyter Notebook.
+
 
 ## Tools & Technologies
 - Python
